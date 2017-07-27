@@ -1,3 +1,9 @@
+
+Starter Plugin for WordPress built using Gulp
+---------------------------------------------
+
+foked from https://github.com/mikejhale/starter-plugin
+
 ## Synopsis
 
 Uses Gulp to generate a starter WordPress plugin
